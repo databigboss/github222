@@ -12,5 +12,8 @@ public class aaa {
         System.out.println("55555");
         System.out.println("55555");
         System.out.println("55555");
+        System.out.println("push");
+
+
     }
 }
